@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:aqua;
+}
+
+.class-info{
+   font-size: medium; 
+   color: bisque;
+   text-align: center;
+}
+
+footer{
+background-color: red;
+color:rebeccapurple;
+text-align: center;
+padding: 1em 0;
+}
+
+h1 {
+    color: #fff;
+}
+
+p {
+    color: #fffdfd;
+}
+
+header{
+   background-color: red; 
+   color: royalblue;
+   text-align: center;
+   padding: 1em 0;
+}
+
+a{
+   text-decoration: none; 
+   background-color: orangered;
+   color: blue;
+   padding: 0.5em;
+   border-radius: 5px;
+}
+
+a:hover{
+ background-color: blanchedalmond;   
+ color: darkred;
+}
+
+.course-info {
+    overflow: hidden; 
+}
